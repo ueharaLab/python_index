@@ -1,6 +1,6 @@
 # データ分析のためのプログラミング
 
-## 第1回 [イントロダクション](https://github.com/ueharaLab/python_introduction)：  
+## 第1回 [イントロダクション](https://github.com/ueharaLab/python1_introduction)：  
 講義の進め方、受講方法、講義資料の入手、演習問題回答提出に関する操作など
 
 ## 第2回 [プログラミングの基本](https://github.com/ueharaLab/python2_basics)  
